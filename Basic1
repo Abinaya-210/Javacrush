@@ -1,0 +1,9 @@
+public class Basic1{
+    public static void main (string[] args){
+        int a=1;
+        char b='1';
+        double c=2.3;
+        long = 200;
+        system.out.println("a="a);
+    }
+}
